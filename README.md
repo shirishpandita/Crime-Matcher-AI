@@ -54,7 +54,7 @@ And yes, I wanted it to be both **technically solid** and **practically useful**
 ## 📁 Project Structure
 .
 ├── app/
-│ ├── crime_matcher_gui.py # Main Streamlit App
+|├── crime_matcher_gui.py # Main Streamlit App
 │ ├── crime_matcher.py # Core backend logic (if separated)
 │ ├── create_dataset.py # Script to generate synthetic dataset
 │
