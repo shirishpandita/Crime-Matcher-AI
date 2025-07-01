@@ -54,22 +54,6 @@ And yes, I wanted it to be both **technically solid** and **practically useful**
 
 ---
 
-## 📁 Project Structure
-.
-├── app/
-|├── crime_matcher_gui.py # Main Streamlit App
-│ ├── crime_matcher.py # Core backend logic (if separated)
-│ ├── create_dataset.py # Script to generate synthetic dataset
-│
-├── data/
-│ ├── crime_dataset.csv # Your main data
-│ └── README.md # Info about data format
-│
-├── requirements.txt # All dependencies
-├── README.md # You're reading it!
-
----
-
 ## 📦 Installation (Run Locally)
 
 ```bash
@@ -85,9 +69,10 @@ You can deploy this on:
 - Streamlit Cloud – free tier available  
 - HuggingFace Spaces  
 
-📜 License  
-MIT License. Free to use, modify, and build on.
+---
 
-🙋‍♂️ Maintainer  
-Made with ❤️ by **Shirish Pandita**  
-Feel free to connect or raise an issue if you want to contribute.
+## Contact
+
+**Shirish Pandita**  
+Email: `shirishpandita@icloud.com`  
+LinkedIn: [linkedin.com/in/shirishpandita](https://linkedin.com/in/shirishpandita)
