@@ -1,10 +1,10 @@
 streamlit
 pandas
 scikit-learn
+numpy
 geopy
 folium
 streamlit-folium
-reportlab
 sentence-transformers
-fpdf
 reportlab
+fpdf
