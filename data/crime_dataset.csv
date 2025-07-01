@@ -1,0 +1,32 @@
+id,location,weapon,time,description,crime_type,latitude,longitude
+CR001,Srinagar,knife,night,A man was stabbed outside his home.,assault,34.0747444,74.8204443
+CR002,Baramulla,gun,day,Shots were fired at a crowded market.,firearm assault,34.2086903,74.343498
+CR003,Anantnag,blunt object,night,Someone was attacked with a rod during a break-in.,home invasion,33.74611,75.1854475
+CR004,"Pampore, Pulwama","AK-47 rifles, grenades",day,"Lashkar-e-Taiba militants attacked a CRPF convoy near Pampore on Feb 20, 2016; a 48-hour stand-off ensued, ending with all 4 militants killed. 5 security personnel (3 Army SF, 2 CRPF) and 1 civilian were killed",terrorism,34.01092,74.91303
+CR005,"Uri, Baramulla","grenades, AK-47 rifles",day,"Four militants attacked an Indian Army brigade headquarters in Uri on Sep 18, 2016 (pre-dawn); 19 soldiers were killed and 19–30 injured",terrorism,34.0875109,73.9745921
+CR006,"Nagrota, Jammu","AK-47 rifles, grenades",day,"Three militants in police uniforms attacked the 166 Field Regiment in Nagrota on Nov 29, 2016 (morning); 7 Indian soldiers (including 2 officers) and all 3 attackers were killed",terrorism,32.7908465,74.9047599
+CR007,"Sunjuwan, Jammu","grenades, firearms",night,"Three Jaish-e-Mohammed terrorists attacked the Sunjuwan Military Station in Jammu on Feb 10, 2018 (predawn); 6 soldiers and 1 civilian were killed, and 20 wounded",terrorism,,
+CR008,"Rasana, Kathua",unknown,day,"8-year-old Asifa Bano was abducted, gang-raped and murdered in Rasana village (Kathua) on Jan 10–17, 2018",rape,,
+CR009,Shopian district,firearms,day,"Ex-SPO Basharat Ahmad Wagay was kidnapped from his home and found bullet-riddled dead in Shopian on Nov 23–24, 2018",kidnapping,33.7207837,74.7714244
+CR010,"Kapran, Shopian",firearms,day,"Three special police officers were kidnapped from their homes in Kapran (Shopian) on Sep 20, 2018 and found shot dead hours later in an orchard",kidnapping,,
+CR011,"Mirgund, Bandipora",unknown,day,A 3-year-old girl was raped by Tahir Ahmad Mir in Mirgund village (Bandipora) in May 2019; the accused was arrested and charged,rape,,
+CR012,"Lethpora, Pulwama",VBIED (suicide car bomb),day,"Suicide car bomb attack on a CRPF convoy at Lethpora (Pulwama) on Feb 14, 2019; 40 CRPF soldiers were killed",terrorism,33.9690946,74.9923752
+CR013,Rajouri (Dhangri village),"firearms, IED",day,"Terrorists attacked homes in Dhangri village (Rajouri) on Jan 1, 2023; 7 people (including 2 children) were killed (4 by gunfire on Jan 1, 2 by an IED on Jan 2)",terrorism,,
+CR014,Teryath (Reasi),M4 carbines,day,"Terrorists ambushed a pilgrim bus near Teryath (Reasi) on Jun 9, 2024; 9 people (including a 2-year-old and a 14-year-old) were killed and 41 injured",terrorism,,
+CR015,"Baisaran Valley, Pahalgam","M4 carbines, AK-47 rifles",day,"Five terrorists attacked tourists in Baisaran Valley (Pahalgam) on Apr 22, 2025; 26 civilians (mostly Hindu pilgrims) were killed",terrorism,,
+CR016,"Basantgarh, Udhampur",firearms,day,"One terrorist was killed in an Army-J&K Police operation at Basantgarh (Udhampur) on Jun 26, 2025",terrorism,32.8105476,75.5514632
+CR017,"Bakshi Nagar, Jammu",none,day,"A man caught stealing ?40,000 while buying medicine was paraded by police in Bakshi Nagar (Jammu) on Jun 24, 2025",theft,32.7359858,74.8572137
+CR018,"Kunzer, Baramulla",none,day,"A mentally challenged 16-year-old girl in Kunzer (Baramulla) was repeatedly raped by multiple men, resulting in pregnancy; 3 suspects were arrested in Jan 2025",rape,34.0829324,74.5002436
+CR019,Srinagar,none,day,"J&K Cyber Police busted a mule bank account network used for online fraud (Jan–Apr 2025); ~7,200 accounts were identified and 21 people arrested",cybercrime,34.0747444,74.8204443
+CR020,Domana (Jammu),sharp-edged weapon,day,23-year-old Mukesh Kumar was killed by his younger brother Anil Kumar with a sharp-edged weapon during a domestic dispute,murder,32.790645,74.7820729
+CR021,Shakti Nagar (Jammu),"baseball bats, lathis",day,"Elderly Madan Lal was assaulted by four men using baseball bats and lathis, then thrown from his rooftop; he later died of injuries",murder,32.7386273,74.8355588
+CR022,Greater Kailash (Jammu),firearms (armed robbers),day,"Two armed men on a motorcycle held up a jewellery showroom, took the owner hostage and decamped with 1.5 kg of gold in broad daylight",robbery,32.6742207,74.8902864
+CR023,Jammu city (Jammu),– (forced entry),day,"Thieves forced open the shutter of a shop in Jammu and stole ?50,000 from the cash drawer",theft,32.7185614,74.8580917
+CR024,Dachan (Kishtwar),– (break-in),day,Unknown assailants broke into the J&K Bank branch in Dachan and looted approximately ?19.56 lakh in cash,robbery,,
+CR025,Srinagar (Sunday Market),hand grenade,day,"Terrorists hurled a hand grenade at Srinagar’s crowded Sunday Market (Lal Chowk), injuring 12 civilians",terrorism,,
+CR026,Pahalgam (Anantnag),automatic rifles,day,"Gunmen opened fire with automatic rifles on a group of tourists in Pahalgam’s Baisaran meadows, killing 26 people and wounding others",terrorism,34.0144858,75.3285164
+CR027,Reasi (Jammu division),firearms,day,"Armed militants ambushed a bus of Hindu pilgrims in Reasi, causing it to crash into a gorge; at least 9 were killed and 33 injured",terrorism,,
+CR028,Lolab (Kupwara),motorcycle,day,A woman was abducted by a man on a motorcycle from a hospital in Lolab; she was later rescued in Rajasthan and the accused arrested,kidnapping,34.5013226,74.4052504
+CR029,Srinagar (Cyber Police HQ),–,day,"J&K Cyber Police uncovered 7,200 fraudulent “mule” bank accounts used for cyber-fraud money laundering and arrested 21 suspects",cybercrime,,
+CR030,Baramulla (Kunzer),–,day,Baramulla police cracked a rape case under POCSO: a mentally challenged 16-year-old girl was found 25 weeks pregnant from repeated assault; three were arrested,rape,,
+CR031,Nishat (Srinagar outskirts),–,day,"A nomadic woman (40s) grazing goats near Nishat was tied up, brutally raped and beaten by four intoxicated men; she died en route to the hospital",murder,,
