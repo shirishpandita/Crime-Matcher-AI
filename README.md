@@ -1,6 +1,7 @@
 # 🧠 Crime Pattern Matcher AI  
 🌐 **Live App:** [Click here to try it out](https://crime-matcher-ai-giwfu2cgcv7sndfjntesqw.streamlit.app)
 An intelligent system to identify and visualize similar crime patterns using natural language input, semantic AI, and geolocation — focused on Jammu & Kashmir.
+
 ("⚠️ The map and similarity matching might take up to 1–2 minutes to load depending on internet speed and server response. Please be patient — it's worth the wait! 😊")
 
 ---
