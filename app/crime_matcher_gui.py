@@ -81,7 +81,7 @@ if uploaded_file:
     df = pd.read_csv(uploaded_file, encoding='cp1252')
     st.sidebar.success("✅ Dataset uploaded successfully!")
 else:
-    df = pd.read_csv("crime_dataset.csv", encoding='cp1252')
+    df = pd.read_csv("data/crime_dataset.csv", encoding='cp1252')
     st.sidebar.info("Using default dataset.")
 
 # 🧠 Only run geocoding if coordinates are missing
