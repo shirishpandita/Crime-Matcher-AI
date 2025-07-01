@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+geopy
+folium
+streamlit-folium
+reportlab
+sentence-transformers
+fpdf
+
