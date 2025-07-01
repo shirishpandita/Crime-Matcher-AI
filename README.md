@@ -74,8 +74,8 @@ git clone https://github.com/yourusername/crime-pattern-matcher-ai.git
 cd crime-pattern-matcher-ai
 pip install -r requirements.txt
 streamlit run app/crime_matcher_gui.py
+```
 ⚠️ Make sure you’re using Python 3.9 or higher.
-
 🌍 Deploy Online (Optional)  
 You can deploy this on:
 
