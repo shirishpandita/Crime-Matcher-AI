@@ -7,4 +7,3 @@ streamlit-folium
 reportlab
 sentence-transformers
 fpdf
-
