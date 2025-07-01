@@ -57,7 +57,7 @@ And yes, I wanted it to be both **technically solid** and **practically useful**
 ## 📦 Installation (Run Locally)
 
 ```bash
-git clone https://github.com/yourusername/crime-pattern-matcher-ai.git
+git clone https://github.com/shirishpandita/crime-pattern-matcher-ai.git
 cd crime-pattern-matcher-ai
 pip install -r requirements.txt
 streamlit run app/crime_matcher_gui.py
